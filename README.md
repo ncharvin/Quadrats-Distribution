@@ -23,9 +23,9 @@ Each image are then divided N times along the X and Y directions, resulting in N
 
 -	The white percentage NSP is computed
 -	The number of nodules NBN is determined as follows: if the nodule centroid lies within the quadrat,  NBN is incremented
--	The ratio NSP / NBN, called γ, is computed. If NBN = 0, no value is returned.
+-	The ratio NSP / NBN, called __γ__, is computed. If NBN = 0, no value is returned.
 
-Therefore, a [N,N] array is obtained for each sample image, from which we can plot a heatmap representing γ all over the image.
+Therefore, a [N,N] array is obtained for each sample image, from which we can plot a heatmap representing __γ__ all over the image.
 
 
 
@@ -57,4 +57,15 @@ NSP heatmaps were computed for each image.
 
 Not surprisingly, NSP heatmaps for SmallCircles, BigCircles and MixCircles are identical, and are not that useful to discriminate images. 
 
-γ &#915; heatmaps were also computed, to take number of nodules into account.
+__γ__ heatmaps were also computed, to take number of nodules into account.
+
+<table>
+    <tr>
+        <td> small </td>
+        <td> big </td>
+        <td> mix </td>
+        <td> smalla and No </td>
+    </tr>
+</table>
+
+__γ__ heatmaps for SmallCircles and BigCircles clearly show that spatial distribution all over the image is homogenous, but at a different __γ__ level.
