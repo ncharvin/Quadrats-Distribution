@@ -30,7 +30,31 @@ Therefore, a [N,N] array is obtained for each sample image, from which we can pl
 
 
 Synthetic model images were generated to assess the value of our method:
--	SmallCircles: each quadrat, denoted S-typed, is composed of 40 circles of radius 10px, randomly placed, without crossing the quadrats borders. The cumulated circles area in each quadrat is denoted A.
--	BigCircles: each quadrat, denoted L-typed, is composed of 1 single circle, whose area equals A, randomly placed, without crossing the quadrats borders.
--	MixCircles: with either S- and L-typed quadrats, randomly placed
--	Small_and_No_Circles: with S-typed and empty quadrats, randomly placed.
+-	_SmallCircles_: each quadrat, denoted S-typed, is composed of 40 circles of radius 10px, randomly placed, without crossing the quadrats borders. The cumulated circles area in each quadrat is denoted A.
+-	_BigCircles_: each quadrat, denoted L-typed, is composed of 1 single circle, whose area equals A, randomly placed, without crossing the quadrats borders.
+-	_MixCircles_: with either S- and L-typed quadrats, randomly placed
+-	_Small_and_No_Circles_: with S-typed and empty quadrats, randomly placed.
+
+<table>
+    <tr>
+        <td> small </td>
+        <td> big </td>
+        <td> mix </td>
+        <td> smalla and No </td>
+    </tr>
+</table>
+
+NSP heatmaps were computed for each image.
+
+<table>
+    <tr>
+        <td> small </td>
+        <td> big </td>
+        <td> mix </td>
+        <td> smalla and No </td>
+    </tr>
+</table>
+
+Not surprisingly, NSP heatmaps for SmallCircles, BigCircles and MixCircles are identical, and are not that useful to discriminate images. 
+
+γ &#915; heatmaps were also computed, to take number of nodules into account.
