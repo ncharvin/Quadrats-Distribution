@@ -18,6 +18,7 @@ import matplotlib.pyplot as plt
 ```
 
 Let's start with the following binarized image:
+
 <img src="MixCircles.png" alt="Drawing" style="width: 200px;"/>
 
 
