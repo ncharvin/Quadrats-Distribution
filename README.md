@@ -48,10 +48,10 @@ ___NSP___ heatmaps were computed for each image.
 
 <table>
     <tr>
-        <td> <img src="images/G1-SmallCircles-ratio.png" alt="Small Circles" height=150> </td>
-        <td> <img src="images/G2-BigCircles-ratio.png" alt="Big Circles" height=150> </td>
-        <td> <img src="images/G3-MixCircles-ratio.png" alt="Mix Circles" height=150> </td>
-        <td> <img src="images/G4-Small_and_NoCircles-ratio.png" alt="Small and No Circles" height=150> </td>
+        <td> <img src="images/G1-SmallCircles_ratio.png" alt="Small Circles" height=150> </td>
+        <td> <img src="images/G2-BigCircles_ratio.png" alt="Big Circles" height=150> </td>
+        <td> <img src="images/G3-MixCircles_ratio.png" alt="Mix Circles" height=150> </td>
+        <td> <img src="images/G4-Small_and_NoCircles_ratio.png" alt="Small and No Circles" height=150> </td>
     </tr>
 </table>
 
