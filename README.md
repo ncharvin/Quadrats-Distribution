@@ -44,7 +44,7 @@ Synthetic model images were generated to assess the value of our method:
     </tr>
 </table>
 
-___NSP___ heatmaps were computed for each image.
+___NSP___ heatmaps were computed for each image:
 
 <table>
     <tr>
@@ -57,7 +57,7 @@ ___NSP___ heatmaps were computed for each image.
 
 Not surprisingly, ___NSP___ heatmaps for SmallCircles, BigCircles and MixCircles are identical, and are not that useful to discriminate images. 
 
-__γ__ heatmaps were also computed, to take number of nodules into account.
+__γ__ heatmaps were also computed, to take number of nodules into account:
 
 <table>
     <tr>
