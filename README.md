@@ -46,17 +46,12 @@ Synthetic model images were generated to assess the value of our method:
 
 ___NSP___ heatmaps were computed for each image.
 
-
-
-
-
-
 <table>
     <tr>
-        <td> <img src="images/G1-SmallCircles_ratio.png" alt="Small Circles" height=150> </td>
-        <td> <img src="images/G2-BigCircles_ratio.png" alt="Big Circles" height=150> </td>
-        <td> <img src="images/G3-MixCircles_ratio.png" alt="Mix Circles" height=150> </td>
-        <td> <img src="images/G4-Small_andNoCircles_ratio.png.png" alt="Small and No Circles" height=150> </td>
+        <td> <img src="images/G1-SmallCircles-ratio.png" alt="Small Circles" height=150> </td>
+        <td> <img src="images/G2-BigCircles-ratio.png" alt="Big Circles" height=150> </td>
+        <td> <img src="images/G3-MixCircles-ratio.png" alt="Mix Circles" height=150> </td>
+        <td> <img src="images/G4-Small_and_NoCircles-ratio.png" alt="Small and No Circles" height=150> </td>
     </tr>
 </table>
 
@@ -66,10 +61,10 @@ __γ__ heatmaps were also computed, to take number of nodules into account.
 
 <table>
     <tr>
-        <td> small </td>
-        <td> big </td>
-        <td> mix </td>
-        <td> smalla and No </td>
+        <td> <img src="images/G1-SmallCircles-ratio_over_nodulesNumber.png" alt="Small Circles" height=150> </td>
+        <td> <img src="images/G2-BigCircles-ratio_over_nodulesNumber.png" alt="Big Circles" height=150> </td>
+        <td> <img src="images/G3-MixCircles-ratio_over_nodulesNumber.png" alt="Mix Circles" height=150> </td>
+        <td> <img src="images/G4-Small_and_NoCircles-ratio_over_nodulesNumber.png" alt="Small and No Circles" height=150> </td>
     </tr>
 </table>
 
