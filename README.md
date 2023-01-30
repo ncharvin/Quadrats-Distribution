@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The approach presented her is based on the works performed wthin the [EFFISURF](https://www.univ-smb.fr/2021/03/02/effisurf-un-projet-destine-a-apporter-de-nouvelles-fonctionnalites-aux-materiaux-plastiques) project, at both LEPMI laboratory and CT-IPC research center.
+The approach presented her is based on the works performed within the [EFFISURF](https://www.univ-smb.fr/2021/03/02/effisurf-un-projet-destine-a-apporter-de-nouvelles-fonctionnalites-aux-materiaux-plastiques) project, at both LEPMI laboratory and CT-IPC research center.
 See scientific references at the bottom of this page
 
 <table>
