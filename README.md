@@ -37,10 +37,10 @@ Synthetic model images were generated to assess the value of our method:
 
 <table>
     <tr>
-        <td> <img src="images/SmallCircles.png" alt="SmallCircles" height=100> </td>
-        <td> big </td>
-        <td> mix </td>
-        <td> <img src="images/Small_and_No_Circles.png" alt="Small and No Circles" height=100> </td>
+        <td> <img src="images/SmallCircles.png" alt="Small Circles" height=150> </td>
+        <td> <img src="images/BigCircles.png" alt="Big Circles" height=150> </td>
+        <td> <img src="images/MixCircles.png" alt="Mix Circles" height=150> </td>
+        <td> <img src="images/Small_and_No_Circles.png" alt="Small and No Circles" height=150> </td>
     </tr>
 </table>
 
