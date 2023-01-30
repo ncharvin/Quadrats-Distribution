@@ -21,8 +21,8 @@ Sample images are first binarized, to obtain nodules as white objects over a bla
 
 Each image are then divided N times along the X and Y directions, resulting in N<sup>2</sup> sub-images, called quadrats.  Each quadrat is analyzed with the following algorithm:
 
--	The white percentage NSP is computed
--	The number of nodules NBN is determined as follows: if the nodule centroid lies within the quadrat,  NBN is incremented
+-	The white percentage ___NSP___ is computed
+-	The number of nodules ___NBN___ is determined as follows: if the nodule centroid lies within the quadrat,  NBN is incremented
 -	The ratio NSP / NBN, called __γ__, is computed. If NBN = 0, no value is returned.
 
 Therefore, a [N,N] array is obtained for each sample image, from which we can plot a heatmap representing __γ__ all over the image.
@@ -44,7 +44,7 @@ Synthetic model images were generated to assess the value of our method:
     </tr>
 </table>
 
-NSP heatmaps were computed for each image.
+___NSP___ heatmaps were computed for each image.
 
 <table>
     <tr>
@@ -55,7 +55,7 @@ NSP heatmaps were computed for each image.
     </tr>
 </table>
 
-Not surprisingly, NSP heatmaps for SmallCircles, BigCircles and MixCircles are identical, and are not that useful to discriminate images. 
+Not surprisingly, ___NSP___ heatmaps for SmallCircles, BigCircles and MixCircles are identical, and are not that useful to discriminate images. 
 
 __γ__ heatmaps were also computed, to take number of nodules into account.
 
