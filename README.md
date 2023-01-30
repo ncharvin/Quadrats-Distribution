@@ -8,6 +8,7 @@ See scientific references at the bottom of this page
 <table>
     <tr>
         <td> <a href="http://www.lepmi-guide.univ-smb.fr"> <img src="images/Logo_LEPMI_h100.png" alt="LEPMI" height=100></a> </td>
+        <td> </td>
         <td> <a href="https://ct-ipc.com/"><img src="images/Logo_IPC.jpg" alt="CT-IPC" height=100> </td>
     </tr>
 </table>
@@ -36,10 +37,10 @@ Synthetic model images were generated to assess the value of our method:
 
 <table>
     <tr>
-        <td> <img src="images/SmallCircles.png" alt="Small Circles" width=150> </td>
-        <td> <img src="images/BigCircles.png" alt="Big Circles" width=150> </td>
-        <td> <img src="images/MixCircles.png" alt="Mix Circles" width=150> </td>
-        <td> <img src="images/Small_and_No_Circles.png" alt="Small and No Circles" width=150> </td>
+        <td> <img src="images/SmallCircles.png" alt="Small Circles" width=200> </td>
+        <td> <img src="images/BigCircles.png" alt="Big Circles" width=200> </td>
+        <td> <img src="images/MixCircles.png" alt="Mix Circles" width=200> </td>
+        <td> <img src="images/Small_and_No_Circles.png" alt="Small and No Circles" width=200> </td>
     </tr>
 </table>
 
@@ -47,7 +48,7 @@ ___NSP___ heatmaps were computed for each image.
 
 <table>
     <tr>
-        <td> <img src="images/G1-SmallCircles_ratio.png" alt="Small Circles" height=150> </td>
+        <td> <img src="images/G1-SmallCircles_ratio.png" alt="Small Circles" width=200> </td>
         <td> <img src="images/G2-BigCircles_ratio.png" alt="Big Circles" height=150> </td>
         <td> <img src="images/G3-MixCircles_ratio.png" alt="Mix Circles" height=150> </td>
         <td> <img src="images/G4-Small_and_NoCircles_ratio.png" alt="Small and No Circles" height=150> </td>
