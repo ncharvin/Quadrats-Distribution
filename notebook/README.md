@@ -136,13 +136,6 @@ plt.colorbar()
 ```
 
 
-
-
-    <matplotlib.colorbar.Colorbar at 0x271348e3e08>
-
-
-
-
-    
+   
 ![png](output_10_1.png)
     
