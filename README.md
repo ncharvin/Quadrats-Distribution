@@ -2,14 +2,14 @@
 
 ## Introduction
 
-The approach presented her is based on the works performed wthin the EFFISURF project, at both LEPMI laboratory and IPC research center.
+The approach presented her is based on the works performed wthin the EFFISURF project, at both LEPMI laboratory and CT-IPC research center.
 See scientific references at the bottom of this page
 
 <table>
     <tr>
         <td> <a href="http://www.lepmi-guide.univ-smb.fr"> <img src="images/Logo_LEPMI_h100.png" alt="LEPMI" height=100></a> </td>
         <td>  </td>
-        <td> <a href="http://www.lmgp.grenoble-inp.fr/"><img src="notebook_files/images/Logo_LMGP_h100.png" alt="LMGP" height=100> </td>
+        <td> <a href="https://ct-ipc.com/"><img src="images/Logo_LMGP_h100.png" alt="CT-IPCLMGP" height=100> </td>
     </tr>
 </table>
 
