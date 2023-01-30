@@ -146,14 +146,3 @@ plt.colorbar()
     
 ![png](output_10_1.png)
     
-
-
-
-```python
-
-```
-
-
-```python
-
-```
