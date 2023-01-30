@@ -19,6 +19,8 @@ In order to quantify the distribution and dispersion of nodules in our samples, 
 ## Method
 Sample images are first binarized, to obtain nodules as white objects over a black background. A segmentation phase is first conducted to label each nodule and obtain their centroids coordinates, excluding nodules crossing the image edges.
 
+[More details can be found here](https://github.com/ncharvin/Quadrats-Distribution/tree/main/notebook)
+
 Each image are then divided N times along the X and Y directions, resulting in N<sup>2</sup> sub-images, called quadrats.  Each quadrat is analyzed with the following algorithm:
 
 -	The white percentage ___NSP___ is computed
