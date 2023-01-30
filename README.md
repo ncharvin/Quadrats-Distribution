@@ -25,7 +25,7 @@ Each image are then divided N times along the X and Y directions, resulting in N
 
 -	The white percentage ___NSP___ is computed
 -	The number of nodules ___NBN___ is determined as follows: if the nodule centroid lies within the quadrat,  NBN is incremented
--	The ratio NSP / NBN, called __γ__, is computed. If NBN = 0, no value is returned.
+-	The ratio NSP / NBN, called __F<sub>S/n</sub>__, is computed. If NBN = 0, no value is returned.
 
 Therefore, a [N,N] array is obtained for each sample image, from which we can plot a heatmap representing __γ__ all over the image.
 
