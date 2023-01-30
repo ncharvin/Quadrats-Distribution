@@ -61,10 +61,10 @@ __γ__ heatmaps were also computed, to take number of nodules into account.
 
 <table>
     <tr>
-        <td> <img src="images/G1-SmallCircles-ratio_over_nodulesNumber.png" alt="Small Circles" height=150> </td>
-        <td> <img src="images/G2-BigCircles-ratio_over_nodulesNumber.png" alt="Big Circles" height=150> </td>
-        <td> <img src="images/G3-MixCircles-ratio_over_nodulesNumber.png" alt="Mix Circles" height=150> </td>
-        <td> <img src="images/G4-Small_and_NoCircles-ratio_over_nodulesNumber.png" alt="Small and No Circles" height=150> </td>
+        <td> <img src="images/G1-SmallCircles_ratio_over_nodulesNumber.png" alt="Small Circles" height=150> </td>
+        <td> <img src="images/G2-BigCircles_ratio_over_nodulesNumber.png" alt="Big Circles" height=150> </td>
+        <td> <img src="images/G3-MixCircles_ratio_over_nodulesNumber.png" alt="Mix Circles" height=150> </td>
+        <td> <img src="images/G4-Small_and_NoCircles_ratio_over_nodulesNumber.png" alt="Small and No Circles" height=150> </td>
     </tr>
 </table>
 
