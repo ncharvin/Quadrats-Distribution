@@ -46,12 +46,17 @@ Synthetic model images were generated to assess the value of our method:
 
 ___NSP___ heatmaps were computed for each image.
 
+
+
+
+
+
 <table>
     <tr>
-        <td> small </td>
-        <td> big </td>
-        <td> mix </td>
-        <td> smalla and No </td>
+        <td> <img src="images/G1-SmallCircles_ratio.png" alt="Small Circles" height=150> </td>
+        <td> <img src="images/G2-BigCircles_ratio.png" alt="Big Circles" height=150> </td>
+        <td> <img src="images/G3-MixCircles_ratio.png" alt="Mix Circles" height=150> </td>
+        <td> <img src="images/G4-Small_andNoCircles_ratio.png.png" alt="Small and No Circles" height=150> </td>
     </tr>
 </table>
 
