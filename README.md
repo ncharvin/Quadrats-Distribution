@@ -90,4 +90,7 @@ Nevertheless, __F<sub>s/n</sub>__ cannot be used as a definitive characteristic,
     </tr>
 </table>
 
+## References
+
+[1] Rogers : [Statistical Analysis of Spatial Dispersion: A Quadrat Method](https://www.jstor.org/stable/2286951), ___Journal of the American Statistical Association ___
 
