@@ -5,7 +5,7 @@ We will be using the following modules:
 * [scikit-image](https://numpy.org)
 * [Matplotlib](https://matplotlib.org/)
 
-
+A jupyter notebook is [available here](Quadrats.ipynb)
 
 
 
