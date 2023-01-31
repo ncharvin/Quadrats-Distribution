@@ -74,10 +74,10 @@ __F<sub>s/n</sub>__ heatmaps for SmallCircles and BigCircles clearly show that s
 
 ## Caveats
 
-Nevertheless, __F<sub>s/n</sub>__ cannot be used as a definitive characteristic, as show on the following synthetic image.
+Nevertheless, __F<sub>s/n</sub>__ cannot be used as a definitive characteristic, as show on the following synthetic image, with quadrats containing 1, 3 ou 12 similar objects.
 <table>
     <tr>
-        <td> Synthetic image, with quadrat containing 1, 3 ou 12 similar objects </td>
+        <td> Synthetic image </td>
         <td> Nb of nodules  </td>
         <td> NSP </td>
         <td>  __F<sub>s/n</sub> </td>
