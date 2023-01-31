@@ -72,6 +72,7 @@ __F<sub>s/n</sub>__ heatmaps were also computed, to take number of nodules into 
 
 __F<sub>s/n</sub>__ heatmaps for SmallCircles and BigCircles clearly show that spatial distribution all over the image is homogenous, but at a different __F<sub>s/n</sub>__ level.
 
+## Caveats
 
 Nevertheless, __F<sub>s/n</sub>__ cannot be used as a definitive characteristic, as show on the following synthetic image.
 <table>
