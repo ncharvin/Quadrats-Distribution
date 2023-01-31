@@ -76,7 +76,7 @@ __F<sub>s/n</sub>__ heatmaps for SmallCircles and BigCircles clearly show that s
 Nevertheless, __F<sub>s/n</sub>__ cannot be used as a definitive characteristic, as show on the following synthetic image.
 <table>
     <tr>
-        <td> <img src="images/SmallCircles.png" alt="Same __F<sub>s/n</sub>__" width=200> </td>
+        <td> <img src="images/SameFsn.png" alt="Same __F<sub>s/n</sub>__" width=200> </td>
         <td> tutu </td>
     </tr>
 </table>
