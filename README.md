@@ -19,7 +19,7 @@ In order to quantify the distribution and dispersion of nodules in our samples, 
 ## Method
 Sample images are first binarized, to obtain nodules as white objects over a black background. A segmentation phase is first conducted to label each nodule and obtain their centroids coordinates, excluding nodules crossing the image edges.
 
-[More details can be found here](https://github.com/ncharvin/Quadrats-Distribution/tree/main/notebook)
+[Code and details can be found here](https://github.com/ncharvin/Quadrats-Distribution/tree/main/notebook)
 
 Each image are then divided N times along the X and Y directions, resulting in N<sup>2</sup> sub-images, called quadrats.  Each quadrat is analyzed with the following algorithm:
 
@@ -71,3 +71,12 @@ __F<sub>s/n</sub>__ heatmaps were also computed, to take number of nodules into 
 </table>
 
 __F<sub>s/n</sub>__ heatmaps for SmallCircles and BigCircles clearly show that spatial distribution all over the image is homogenous, but at a different __F<sub>s/n</sub>__ level.
+
+
+Nevertheless, __F<sub>s/n</sub>__ cannot be used as a definitive characteristic, as show on the following synthetic image.
+<table>
+    <tr>
+        <td> <img src="images/SmallCircles.png" alt="Same __F<sub>s/n</sub>__" width=200> </td>
+        <td> tutu </td>
+    </tr>
+</table>
