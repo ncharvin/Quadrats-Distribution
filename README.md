@@ -80,7 +80,7 @@ Nevertheless, __F<sub>s/n</sub>__ cannot be used as a definitive characteristic,
         <td> Synthetic image </td>
         <td> Nb of nodules  </td>
         <td> NSP </td>
-        <td>  __F<sub>s/n</sub>__ </td>
+        <td>  <b>F<sub>s/n</sub></b> </td>
     </tr>
     <tr>
         <td> <img src="images/SameFsn.png" alt="Same __F<sub>s/n</sub>__" width=200> </td>
