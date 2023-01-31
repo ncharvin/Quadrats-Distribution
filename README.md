@@ -77,9 +77,15 @@ __F<sub>s/n</sub>__ heatmaps for SmallCircles and BigCircles clearly show that s
 Nevertheless, __F<sub>s/n</sub>__ cannot be used as a definitive characteristic, as show on the following synthetic image.
 <table>
     <tr>
-        <td> Synthetic image <img src="images/SameFsn.png" alt="Same __F<sub>s/n</sub>__" width=200> </td>
-        <td> Nb of nodules <img src="images/GSameFsn_nbNodules_heatmap.png" alt="Same __F<sub>s/n</sub>__   Nb Nodules" width=200> </td>
-        <td> NSP <img src="images/GSameFsn_ratio_heatmap.png" alt="Same __F<sub>s/n</sub>__   NSP" width=200> </td>
-        <td>  __F<sub>s/n</sub>__ <img src="images/GSameFsn_Fsn_heatmap.png" alt="Same __F<sub>s/n</sub>__" width=200> </td>
+        <td> Synthetic image </td>
+        <td> Nb of nodules  </td>
+        <td> NSP </td>
+        <td>  __F<sub>s/n</sub> </td>
+    </tr>
+    <tr>
+        <td> <img src="images/SameFsn.png" alt="Same __F<sub>s/n</sub>__" width=200> </td>
+        <td> <img src="images/GSameFsn_nbNodules_heatmap.png" alt="Same __F<sub>s/n</sub>__   Nb Nodules" width=200> </td>
+        <td> <img src="images/GSameFsn_ratio_heatmap.png" alt="Same __F<sub>s/n</sub>__   NSP" width=200> </td>
+        <td> <img src="images/GSameFsn_Fsn_heatmap.png" alt="Same __F<sub>s/n</sub>__" width=200> </td>
     </tr>
 </table>
