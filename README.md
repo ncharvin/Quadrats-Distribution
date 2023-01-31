@@ -92,7 +92,7 @@ Nevertheless, __F<sub>s/n</sub>__ cannot be used as a definitive characteristic,
 
 ## References
 
-[1] Rogers : [Statistical Analysis of Spatial Dispersion: A Quadrat Method](https://www.jstor.org/stable/2286951), ___Journal of the American Statistical Association ___.
+[1] Rogers (1977) : [Statistical Analysis of Spatial Dispersion: A Quadrat Method](https://www.jstor.org/stable/2286951), ___Journal of the American Statistical Association___.
 
 [1] Charvin _et al_ (2021): [Dynamic degradation of metallic nanowire networks under electrical stress: a comparison between experiments and simulations](https://doi.org/10.1039/D0NA00895H), ___Nanoscale Advances___.
 
