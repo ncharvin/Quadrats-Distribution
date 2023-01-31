@@ -77,6 +77,9 @@ Nevertheless, __F<sub>s/n</sub>__ cannot be used as a definitive characteristic,
 <table>
     <tr>
         <td> <img src="images/SameFsn.png" alt="Same __F<sub>s/n</sub>__" width=200> </td>
+        <td>  __F<sub>s/n</sub>__ <img src="images/GSameFsn_Fsn_heatmap.png" alt="Same __F<sub>s/n</sub>__" width=200> </td>
+        <td> Nb nodules <img src="images/GSameFsn_nbNodules_heatmap.png" alt="Same __F<sub>s/n</sub>__   Nb Nodules" width=200> </td>
+        <td> NSP <img src="images/GSameFsn_ratio_heatmap.png" alt="Same __F<sub>s/n</sub>__   NSP" width=200> </td>
         <td> tutu </td>
     </tr>
 </table>
