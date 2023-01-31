@@ -74,7 +74,7 @@ __F<sub>s/n</sub>__ heatmaps for SmallCircles and BigCircles clearly show that s
 
 ## Caveats
 
-Nevertheless, __F<sub>s/n</sub>__ cannot be used as a definitive characteristic, as show on the following synthetic image, with quadrats containing 1, 3 ou 12 similar objects. The number of objects in each quadrat also has to be considered.
+Nevertheless, __F<sub>s/n</sub>__ cannot be used as a definitive characteristic, as show on the following synthetic image, with quadrats containing 1, 3 ou 12 similar objects. By definition, if objects presents in image are all similar,  __F<sub>s/n</sub>__ does not depend on the number of objects in each quadrat (NBN), which has to be considered separately.
 <table>
     <tr>
         <td> Synthetic image </td>
