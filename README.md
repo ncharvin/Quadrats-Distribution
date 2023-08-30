@@ -95,3 +95,4 @@ Nevertheless, __F<sub>s/n</sub>__ cannot be used as a definitive characteristic,
 
 [1] Rogers (1977) : [Statistical Analysis of Spatial Dispersion: A Quadrat Method](https://www.jstor.org/stable/2286951), ___Journal of the American Statistical Association___.
 
+[2] Le Brouster (2023) : [Origins of the Gain in Hydrophobicity of Polystyrene Linked to the Addition of Tailored Fluorinated Oligo-Polystyrene Additives](https://doi.org/10.1021/acsapm.3c01029), ___ACS Applied Polymer Materials___.
